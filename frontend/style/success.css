@@ -1,0 +1,44 @@
+.navbar{
+    background: #BE8197;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: white !important;
+}
+
+.success{
+    margin-top: 80px;
+}
+
+.success h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: #BE8197;
+}
+
+.success p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: #BE8197;
+}
+
+.btn-submit{
+    margin-top: 40px;
+    width: 301px;
+    height: 64px;
+    background: #BE8197;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}

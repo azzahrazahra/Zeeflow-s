@@ -1,0 +1,152 @@
+.navbar{
+    background: #BE8197;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: white !important;
+}
+
+.hed{
+    margin-top: 60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+
+    color: #BE8197;
+}
+
+.book{
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+.book h4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    color: #BE8197;
+    margin-bottom: 36px;
+
+}
+
+.grs{
+    margin-left: -100px;
+    width: 452px;
+    height: 0px;
+    border: 1px solid #000000;
+    transform: rotate(90deg);
+    margin-right: -100px;
+
+}
+
+.dd{
+    margin-top: -60px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    color: #BE8197;
+
+}
+
+.text-right{
+    margin-left: 60px;
+}
+.text-right-0{
+    margin-left: 75px;
+}
+.text-right-ttl{
+    margin-left: 110px;
+}
+
+.gv{
+    width: 250px;
+    height: 0px;
+    border: 1px solid #000000;
+}
+
+.payment{
+    margin-top: 90px;
+    margin-left: 90px;
+}
+
+.address{
+    padding-left: 20px;
+    padding-top: 20px;
+    background-color: #BE8197;
+    width: 300px;
+    height: 200px;
+    background: #BE8197;
+    border-radius: 10px;
+}
+
+.address h5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.ad-img{
+    margin-top: -50px;
+}
+
+.address label{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+
+}
+
+.address a{
+    margin-left: 130px;
+    padding: 8px;
+    width: 120px;
+    height: 31px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    color: #BE8197;
+}
+
+.address p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.btn-submit{
+    width: 265px;
+    height: 48px;
+    background: #BE8197;
+    border-radius: 10px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.confirm{
+    margin-top: 40px;
+}

@@ -1,0 +1,129 @@
+/* navbar */
+
+.navbar{
+    padding-left: 90px;
+    padding-right: 90px;
+    background: #BE8197;
+    border: 1px solid #ffffff;
+}
+
+.navbar-brand{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    color: white !important;
+}
+
+.nav-link{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px; 
+    color: #FFFFFF !important;
+
+}
+
+.bread{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px; 
+    color: #FFFFFF !important;
+
+}
+
+.all{
+    border: none;
+    outline: none;
+}
+/* tutup navbar */
+
+/* product */
+.All-plants{
+    margin-left: 90px;
+    margin-top: 60px;
+}
+
+.All-plants h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 58px;
+    color: #BE8197;
+}
+
+.All-plants p{
+    margin-bottom: 80px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    color: #BE8197;
+}
+
+.ml-5{
+    margin-left: 180px !important;
+}
+
+.pr-spil{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+
+    color: #BE8197;
+    text-decoration: none;
+
+}
+
+.pr-spil:hover{
+    color: #BE8197;
+    text-decoration: none;
+}
+/* tutup product */
+
+/* footer */
+
+footer{
+    padding-top: 55px;
+    padding-bottom: 55px;
+    padding-left: 90px;
+    margin-top: 80px;
+    background-color: #BE8197;
+}
+
+.footer-item p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+}
+
+.social{
+    margin-left: 390px;
+}
+
+.social h5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+
+.social p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+
+/* tutup footer */
